@@ -11,12 +11,14 @@ Created service shall be in publicly accessible repository and include README fi
 ## Summary
 
 Features that application has to provide are following:
+
 - Register user subscriptions (E.g. `POST /subscriptions`)
 - Query newsletter subscriptions (E.g. `GET /subscriptions` & `GET /subscriptions/:id`)
 - Generate file containing subscriber list once a month
 
 Tips:
 
-- Test your code, 100% code coverage is not required but basic features should be tested
 - Create the solution by yourself, we want to see your code
 - Be prepared to present your solution and answer possible questions about it
+- Use good practices with git, we will check commit history
+- For additional bonus points you can add automatic testing for your solution
